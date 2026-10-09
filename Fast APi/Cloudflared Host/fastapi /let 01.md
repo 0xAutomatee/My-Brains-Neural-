@@ -38,7 +38,29 @@ save as main.py
 
 <img width="1526" height="758" alt="image" src="https://github.com/user-attachments/assets/25e11ea1-d61b-4eaf-b774-590e280a1c14" />
 
+
+<img width="1420" height="422" alt="image" src="https://github.com/user-attachments/assets/6abb9dcc-c37b-4b22-91e9-77a8dac91bf6" />
+
+
+
 # lec #05
+  5 HTTP Methods Explained - GET, POST, PUT, DELETE in FastAPI | FastApi Tutorial
+
+  <img width="1048" height="521" alt="image" src="https://github.com/user-attachments/assets/d2f2a6fb-636f-456f-8942-a8b10f8fe3f0" />
+
+
+  # lec #06   
+
+  we can post data by  three ways ## body, headers - request headers, query params ?? like 
+  
+
+  <img width="1013" height="577" alt="image" src="https://github.com/user-attachments/assets/ce421d5d-8886-4516-9f11-cdc2c4dbced8" />
+
+
+  <img width="643" height="291" alt="image" src="https://github.com/user-attachments/assets/cf2a7cf4-19a1-4b86-aca9-f3b414381bed" />
+
+
+
 
 
 
